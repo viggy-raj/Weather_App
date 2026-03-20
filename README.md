@@ -55,6 +55,3 @@ A sleek and modern Flutter application that provides real-time weather updates a
   - `intl`: For date and time formatting.
   - `flutter_launcher_icons`: For automated app icon generation.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details (if applicable).
